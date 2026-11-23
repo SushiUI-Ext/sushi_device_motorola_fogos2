@@ -1,11 +1,11 @@
-# SushiUI tree for Motorola Moto G34 5G (fogos)
+# SushiUI tree for Motorola Moto G45 5G (fogos2)
 (for SushiUI Extended)
 
 Configurations for this SushiUIext device written in Makefile and Shell.
 
-![fogos](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_fogos/refs/heads/main/fogos.png)
+![fogos2](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_fogos2/refs/heads/main/fogos2.png)
 
-Copyright © 2023 Motorola Mobility LLC. All rights reserved.
+Copyright © 2024 Motorola Mobility LLC. All rights reserved.
 
 Copyright (c) 2026 SushiUI / SushiUI Extended. All rights reserved.
 

@@ -4,10 +4,10 @@
 # Copyright (c) 2026 SushiUI Extended 
 # All rights reserved
 
-DEVICE="fogos_variant1"
+DEVICE="fogos_variant2"
 VERSION="1.1.2"
 VENDOR="motorola"
-VARIANT="variant1"
+VARIANT="variant2"
 AB="true"
 RESOLUTION="720x1600"
 SOC="QTI SM6375"

@@ -1,6 +1,6 @@
 device := fogos
 vendor := motorola
-model := "Moto G34 5G"
+model := "Moto G45 5G"
 
 # sdk
 
@@ -11,7 +11,7 @@ maxSushiSDK := 37
 
 # hardware
 
-CPU := "QTI SM6375"
+CPU := "QTI SM6375-AC"
 RAM := "4GB / 8GB"
 UFSTYPE := "UFS 2.2"
 RAMTYPE := "LPDDR4X"
@@ -20,7 +20,7 @@ GPU := "Adreno 619"
 # FW
 latest := V1UGS35H.75-14-6-2-4
 oldrel := V1UGS35H.75-14-6-2-3
-model_numb := XT2363-1
+model_numb := XT2363-8
 
 # connections
 wifi := "WiFi 5 (802.11ac)"
